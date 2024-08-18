@@ -24,6 +24,10 @@ In this project, I was in charge of the AIs and I partly managed the logic of th
 This mainly enabled me to improve my skills on enemy AIs by using behaviour trees.
 
 ![Capture d'écran 2024-08-18 171357](https://github.com/user-attachments/assets/6b36211f-175e-4c26-bba4-532b1906ff2b)
+*In the main menu, you can choose your character, weapon and outfit, all of which will affect your stats.*
+
+![Capture d'écran 2024-08-18 172116](https://github.com/user-attachments/assets/e2ad459e-b1f5-4441-926c-2d9c87ae58d9)
+*In-game, you can see your character's health, ammunition and current mission status.*
 
 # AR Application for sign language - 2024
 
