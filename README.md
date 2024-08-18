@@ -24,10 +24,10 @@ In this project, I was in charge of the AIs and I partly managed the logic of th
 This mainly enabled me to improve my skills on enemy AIs by using behaviour trees.
 
 ![Capture d'écran 2024-08-18 171357](https://github.com/user-attachments/assets/6b36211f-175e-4c26-bba4-532b1906ff2b)
-*In the main menu, you can choose your character, weapon and outfit, all of which will affect your stats.*
+<p align="center">*In the main menu, you can choose your character, weapon and outfit, all of which will affect your stats.*</p>
 
 ![Capture d'écran 2024-08-18 172116](https://github.com/user-attachments/assets/e2ad459e-b1f5-4441-926c-2d9c87ae58d9)
-*In-game, you can see your character's health, ammunition and current mission status.*
+<p align="center">*In-game, you can see your character's health, ammunition and current mission status.*</p>
 
 # AR Application for sign language - 2024
 
@@ -38,10 +38,10 @@ So first we worked on hand recognition to recognise and record different signs. 
 The biggest challenge of our project was the use of VR headsets, which only allow you to see the back of the hand, so you can't always recognise the sign. We were lucky enough to have a deaf person in our team, who was able to explain to us how sign language works, as well as the recordings we made.
 
 ![Capture d'écran 2024-08-18 174321](https://github.com/user-attachments/assets/42204ac0-2af7-4feb-a3a8-7f86a9e216a7)
-*Example of a level in which no sign is required, just an explanation at the start of use of the application (in French).*
+<p align="center">*Example of a level in which no sign is required, just an explanation at the start of use of the application (in French).*</p>
 
 ![Capture d'écran 2024-08-18 174126](https://github.com/user-attachments/assets/ec68ffcf-6ab3-44d2-af8c-5adee3456618)
-*Example of a level in which the user must sign the letter A (LSF).*
+<p align="center">*Example of a level in which the user must sign the letter A (LSF).*</p>
 
 # Infiltration game - 2024
 
@@ -51,22 +51,26 @@ In this game, the player has to move from floor to floor, carrying out various t
 
 So, of course, in this game, the aim is to avoid being noticed, to hide when you make noise and to run only as a last resort.
 
+This was the first time working on enemy AIs with behavior trees, which is very interesting. I also work on interactive objects such as the computer for the tasks, the coffee machine to give a bonus to the player, the elevator and the baits, which make sound to distract the enemies. I was also in charge of the team.
+
 ![Capture d'écran 2024-08-18 180012](https://github.com/user-attachments/assets/67d4eec6-3ed2-4dea-b675-7d1fe6579d3c)
-*The main menu of the game, the player is in the elevator of the building, to ensure continuity between the menu and the game. The pause menu is also in the elevator.*
+<p align="center">*The main menu of the game, the player is in the elevator of the building, to ensure continuity between the menu and the game. The pause menu is also in the elevator.*</p>
 
 ![Capture d'écran 2024-08-18 180532](https://github.com/user-attachments/assets/779cc43e-8069-4e2c-861f-add6232e603f)
-*The secretary is making the deal with the player at the beginning of the game (in French).*
+<p align="center">*The secretary is making the deal with the player at the beginning of the game (in French).*</p>
 
 ![Capture d'écran 2024-08-18 180724](https://github.com/user-attachments/assets/d764badd-0b0c-411a-a023-a81c29ac7907)
-*The player is using the copy machine, they can know at any moment the status of the photocopying.*
+<p align="center">*The player is using the copy machine, they can know at any moment the status of the photocopying.*</p>
 
 ![Capture d'écran 2024-08-18 181209](https://github.com/user-attachments/assets/16397baf-bf0a-4d5e-a783-2e97c7aef88a)
-*The player can hide under desks and tables, so the enemies won't be able to detect them, otherwise they will run to the player.*
+<p align="center">*The player can hide under desks and tables, so the enemies won't be able to detect them, otherwise they will run to the player.*</p>
 
 ![Capture d'écran 2024-08-18 181440](https://github.com/user-attachments/assets/ea2e60e7-7b77-40f5-adb7-dec9551ba32a)
-*The enemies can also interact with the task object such as copy machine or computer to stop the current task.*
+<p align="center">*The enemies can also interact with the task object such as copy machine or computer to stop the current task.*</p>
 
 # Serious game - 2024
+
+
 
 <!--
 **MathThree/MathThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
