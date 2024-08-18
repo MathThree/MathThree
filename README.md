@@ -31,7 +31,17 @@ This mainly enabled me to improve my skills on enemy AIs by using behaviour tree
 
 # AR Application for sign language - 2024
 
+This project was developed on Unity, and I was part of a team of 5 people developing an application for learning sign language. The aim was to work with AR, so we turned our attention to sign language with hand recognition.
 
+So first we worked on hand recognition to recognise and record different signs. Secondly, we had to set up a level system so that the user wouldn't get lost when using our application.
+
+The biggest challenge of our project was the use of VR headsets, which only allow you to see the back of the hand, so you can't always recognise the sign. We were lucky enough to have a deaf person in our team, who was able to explain to us how sign language works, as well as the recordings we made.
+
+![Capture d'écran 2024-08-18 174321](https://github.com/user-attachments/assets/42204ac0-2af7-4feb-a3a8-7f86a9e216a7)
+*Example of a level in which no sign is required, just an explanation at the start of use of the application (in French).*
+
+![Capture d'écran 2024-08-18 174126](https://github.com/user-attachments/assets/ec68ffcf-6ab3-44d2-af8c-5adee3456618)
+*Example of a level in which the user must sign the letter A (LSF).*
 
 # Infiltration game - 2024
 
