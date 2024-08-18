@@ -45,6 +45,27 @@ The biggest challenge of our project was the use of VR headsets, which only allo
 
 # Infiltration game - 2024
 
+In this project called *Deadly workspace* and developed on Unreal Engine (Blueprints and C++), I worked in a team of 3 on a first-person game in which the player has to leave his workplace after a day's work, unfortunately the only way out is to get the key from the boss's office on the top floor.
+
+In this game, the player has to move from floor to floor, carrying out various tasks such as downloading files and making photocopies for the secretary, who is the only one who lets the player move to the next floor. The tricky part is not to get caught by the people who are still working; at night, these people attack anyone who isn't authorized to be here.
+
+So, of course, in this game, the aim is to avoid being noticed, to hide when you make noise and to run only as a last resort.
+
+![Capture d'écran 2024-08-18 180012](https://github.com/user-attachments/assets/67d4eec6-3ed2-4dea-b675-7d1fe6579d3c)
+*The main menu of the game, the player is in the elevator of the building, to ensure continuity between the menu and the game. The pause menu is also in the elevator.*
+
+![Capture d'écran 2024-08-18 180532](https://github.com/user-attachments/assets/779cc43e-8069-4e2c-861f-add6232e603f)
+*The secretary is making the deal with the player at the beginning of the game (in French).*
+
+![Capture d'écran 2024-08-18 180724](https://github.com/user-attachments/assets/d764badd-0b0c-411a-a023-a81c29ac7907)
+*The player is using the copy machine, they can know at any moment the status of the photocopying.*
+
+![Capture d'écran 2024-08-18 181209](https://github.com/user-attachments/assets/16397baf-bf0a-4d5e-a783-2e97c7aef88a)
+*The player can hide under desks and tables, so the enemies won't be able to detect them, otherwise they will run to the player.*
+
+![Capture d'écran 2024-08-18 181440](https://github.com/user-attachments/assets/ea2e60e7-7b77-40f5-adb7-dec9551ba32a)
+*The enemies can also interact with the task object such as copy machine or computer to stop the current task.*
+
 # Serious game - 2024
 
 <!--
