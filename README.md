@@ -14,6 +14,14 @@
 
 # TPS prototype - 2024
 
+This project was developed on Unreal Engine (Blueprints and C++), and I was in a team of 4 people. Our project was a prototype for a third-person shooter.
+The game takes place in a post-apocalyptic world, in which the player controls a woman who, from a hidden base in Antarctica, can control different characters to carry out different missions, such as destroying enemy property and freeing hostages.
+So we set up the character's logic with basic movements (walking, running, crouching, climbing) and the use of firearms. We also have the logic of the AI, which can shoot, make rounds, take cover, etc. Finally, we've set up maps with the different objectives, as well as the main menu where you can see the main character's hidden base.
+
+In this project, I was in charge of the AIs and I partly managed the logic of the weapons so that the AIs could use them.
+
+This mainly enabled me to improve my skills on enemy AIs by using behaviour trees.
+
 # AR Application for sign language - 2024
 
 # Infiltration game - 2024
