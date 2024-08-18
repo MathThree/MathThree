@@ -4,7 +4,7 @@
 
 #### I am French student. I studied at ENSICAEN (Caen, France) from 2021 to 2024 to learn more about IT, and I've had the chance to continue my studies at UQAC (Québec, Canada), in order to learn more about video games and the video game industry. It was very rewarding, and I was able to work on various video game projects.
 
-
+##### If you want to contact me, you can send me an e-mail (*timmer[dot]mathieu[at]gmail[dot]com*)
 
 <!--
 **MathThree/MathThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
