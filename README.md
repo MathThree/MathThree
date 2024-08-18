@@ -7,10 +7,10 @@
 ##### If you want to contact me, you can send me an e-mail (*timmer[dot]mathieu[at]gmail[dot]com*)
 
 ## My projects
-- [TPS Prototype - 2024]
-- [AR Application for sign language - 2024]
-- [Infiltration game - 2024]
-- [Serious game - 2024]
+- [TPS Prototype - 2024](#tps-prototype---2024)
+- [AR Application for sign language - 2024](#ar-application-for-sign-language---2024)
+- [Infiltration game - 2024](#infiltration-game---2024)
+- [Serious game - 2024](#serious-game---2024)
 
 # TPS prototype - 2024
 
