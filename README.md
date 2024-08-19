@@ -105,7 +105,18 @@ This was the first time working on enemy AIs with behavior trees, which is very 
 
 # Serious game - 2024
 
+This project called FarmLife has been developed on Unreal Engine (Blueprints and C++). I worked in a 4-person team on a serious game about permaculture, the aim is to learn more about the bases of the permaculture.
 
+In this game, the player can plant seeds of different vegetables and fruits on different parcels. Each plant gives points, the player to get the better score in each level, if they use permaculture principles, they will earn more points.
+
+We developed the logic of the plants and the different relations they can have with each other.
+
+I mainly worked on the main menu and the pause menu. I also dealt with the save logic and the tutorial which is rather important for a serious game.
+
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1e87CB4bOnXGxp8pcAktCF0vC4OBKJQoj/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <!--
 **MathThree/MathThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
