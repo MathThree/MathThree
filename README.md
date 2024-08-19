@@ -44,6 +44,8 @@ So first we worked on hand recognition to recognise and record different signs. 
 
 The biggest challenge of our project was the use of VR headsets, which only allow you to see the back of the hand, so you can't always recognise the sign. We were lucky enough to have a deaf person in our team, who was able to explain to us how sign language works, as well as the recordings we made.
 
+I really liked how we could set the logic for the levels, trying to find the better solution for our application.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42204ac0-2af7-4feb-a3a8-7f86a9e216a7" alt="Capture d'écran 2024-08-18 174321" width="500">
 </p>
@@ -107,16 +109,14 @@ This was the first time working on enemy AIs with behavior trees, which is very 
 
 This project called FarmLife has been developed on Unreal Engine (Blueprints and C++). I worked in a 4-person team on a serious game about permaculture, the aim is to learn more about the bases of the permaculture.
 
-In this game, the player can plant seeds of different vegetables and fruits on different parcels. Each plant gives points, the player to get the better score in each level, if they use permaculture principles, they will earn more points.
+In this game, the player can plant seeds of different vegetables and fruits on different tiles. Each plant gives points, the player has to get the better score in each level, if they use permaculture principles, they will earn more points and access the next level.
 
 We developed the logic of the plants and the different relations they can have with each other.
 
 I mainly worked on the main menu and the pause menu. I also dealt with the save logic and the tutorial which is rather important for a serious game.
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1e87CB4bOnXGxp8pcAktCF0vC4OBKJQoj/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Here's the video of the demo (in French only):
+https://drive.google.com/file/d/1e87CB4bOnXGxp8pcAktCF0vC4OBKJQoj/view?usp=sharing
 
 <!--
 **MathThree/MathThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
