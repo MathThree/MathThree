@@ -11,6 +11,31 @@
 - [Jeu d'infiltration - 2024](#jeu-dinfiltration---2024)
 - [Jeu sérieux (Serious game) - 2024](#jeu-sérieux-serious-game---2024)
 
+# Jeu de dames - 2025
+
+Je travaille actuellement sur un projet personnel en utilisant le framework Qt et le langage C++, pour améliorer mes compétences dans ce domaine et confirmer mes acquis.
+Ce projet est fonctionnel en ligne, si vous voulez le tester dès maintenant vous pouvez cliquer sur ce lien ici : https://maththree.github.io/MathThree/queens_game.html
+
+Ce projet est toujours en cours d'évolution, il n'a donc pas encore toutes les foncitonnalités voulues.
+
+Cette application disponible en ligne et également en tant qu'application bureautique permet de jouer au jeu des reines, jeu de logique à un joueur.
+
+Dans ce jeu, vous disposez d'une grille de taille NxN avec N zones, vous devez placer N reines sans qu'aucune reine soit en conflit avec une autre.
+Deux reines sont en conflit si elles sont dans la même zone, la même ligne, la même colonne et/ou en contact direct (cases adjacente et en diagonale).
+
+Pour vous aider, vous pouvez placer un point dans les cases qui selon vous ne devraient pas avoir de reine.
+Dans les paramètres, il est possible d'activer l'aide qui permet de placer automatiquement des points dès que vous placez une reine dans une case (selon les règles de conflit énoncées précédemment).
+
+De plus, vous pouvez changer de niveaux ainsi que le thème d'affichage parmi les choix disponibles.
+
+Vous pouvez retrouver l'ensemble du code source de mon projet sur Github : https://github.com/MathThree/queens_game
+
+Il a été créé avec Qt 5.12 et passé sur Qt 6.9 pour accéder à la compilation WebAssembly qui me permet de vous proposer une version en ligne.
+
+Différentes fonctionnalités seront mises en place dans l'avenir comme le feedback lors d'un conflit entre reines, la possibilité de vider la grille ainsi que de pouvoir anuler et/ou rétablir une action, la possibilité de créer ses propres grilles depuis l'interface.
+
+[Testez-moi !](https://maththree.github.io/MathThree/queens_game.html)
+
 # Prototype de TPS - 2024
 
 Ce projet a été développé sur Unreal Engine (Blueprints et C++) avec une équipe de 4 personnes. Le but était de mettre en place un prototype de jeu de tir à la troisième personne (TPS).
