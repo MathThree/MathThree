@@ -1,6 +1,6 @@
 ## Mathieu Timmerman,
 ### Passionné d'informatique, je suis fraîchement diplômé de l'ENSICAEN (Caen, France), école d'ingénierie avec une spécialisation en informatique en double diplôme avec l'UQAC pour une maîtrise en informatique (option jeux vidéo).
-### Je suis enthousiamé par le développement informatique, j'aime apprendre plus dans ce domaine que ce soit mettre en place d'interfaces graphiques, de logiciels, travailler sur le développement de gameplay dans le domaine de simulations interactives. J'ai travaillé dans de nombreux langages et framework, comme les langages C++, C, C# principalement, des langages de script comme Python (NumPy, Matplotlib, ...), le framework Qt pour les interfaces d'applications bureautiques et Web.
+### Je suis enthousiasmé par le développement informatique, j'aime apprendre plus dans ce domaine que ce soit mettre en place d'interfaces graphiques, de logiciels, travailler sur le développement de gameplay dans le domaine de simulations interactives. J'ai travaillé dans de nombreux langages et framework, comme les langages C++, C, C# principalement, des langages de script comme Python (NumPy, Matplotlib, ...), le framework Qt pour les interfaces d'applications bureautiques et Web.
 ### J'aime aussi répondre aux attentes d'un utilisateur pour savoir ce qu'il veut avant même qu'il me le disent et rendre son expérience plus simple et rapide d'utilisation.
 
 ##### Si vous voulez me contacter, vous pouvez envoyer un mail à cette adresse : *timmer[dot]mathieu[at]gmail[dot]com*
