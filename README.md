@@ -9,7 +9,7 @@
 - [Prototype de TPS - 2024](#prototype-de-tps---2024)
 - [Application AR pour l'apprentissage de la langue des signes - 2024](#application-ar-pour-lapprentissage-de-la-langue-des-signes---2024)
 - [Jeu d'infiltration - 2024](#jeu-dinfiltration---2024)
-- [Jeu sérieux (Serious game) - 2024](#jeu-serieux-serious-game---2024)
+- [Jeu sérieux (Serious game) - 2024](#jeu-sérieux-serious-game---2024)
 
 # Prototype de TPS - 2024
 
